@@ -10,9 +10,6 @@ const agecheck = function (){
   }
 }
 agecheck();
-
-
-
 //2
 const SidesTriangle = function(a,b,c){
   a = +prompt('a= ');
