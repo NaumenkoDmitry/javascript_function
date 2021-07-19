@@ -1,6 +1,6 @@
 
 //1
-const agecheck = function (){
+const isAdult = function (){
   const majority = +prompt("Укажите ваш возраст");
   if( majority>=18){
     alert("true");
@@ -9,7 +9,7 @@ const agecheck = function (){
     alert('false')
   }
 }
-agecheck();
+isAdult();
 //3
 const SidesTriangle = function(a,b,c){
   a = +prompt('a= ');
