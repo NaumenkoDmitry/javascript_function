@@ -10,7 +10,7 @@ const agecheck = function (){
   }
 }
 agecheck();
-//2
+//3
 const SidesTriangle = function(a,b,c){
   a = +prompt('a= ');
   b = +prompt('b= ');
@@ -21,8 +21,8 @@ const SidesTriangle = function(a,b,c){
   alert("false")
 }
 }
-//3
 SidesTriangle();
+//2
 const checkMultiplicity = function(a,b){
   //a = +prompt('a= ');
   //b = +prompt('b= ');
